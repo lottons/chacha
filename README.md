@@ -20,9 +20,9 @@
 
 - parser 解析器，在html_downer下载页面后，用于解析html页面，获取有用的数据信息。parser不是根据固定的html页面内容来进行解析，该parser可以根据配置文件指定的格式来获取相应的数据。 [参见parser的设计](https://github.com/lottons/chacha/issues/1)
 
-parser针对需要解析的内容，支持配置化的数据信息的分析和抓取[详细参见](https://github.com/lottons/chacha/issues/1#issuecomment-520131133)。
+parser针对需要解析的内容，支持配置化的数据信息的分析和抓取 [详细信息](https://github.com/lottons/chacha/issues/1#issuecomment-520131133)。
 
-当前，parser可以针对以下的页面进行配置化的解析处理[详细参见](https://github.com/lottons/chacha/issues/1#issue-479244278)：
+当前，parser可以针对以下的页面进行配置化的解析处理 [详细信息](https://github.com/lottons/chacha/issues/1#issue-479244278)：
 
 - [x] 排行信息的页面，适用于在一个页面上有应用排行、游戏排行、最新上架、上升最快等排行的信息；
 
