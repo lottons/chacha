@@ -26,9 +26,15 @@ parser针对需要解析的内容，支持配置化的数据信息的分析和�
 
 - [x] 排行信息的页面，适用于在一个页面上有应用排行、游戏排行、最新上架、上升最快等排行的信息；
 
+![图片](https://user-images.githubusercontent.com/44310324/62819809-edbe5480-bb8c-11e9-8ee4-421ea81cd92b.png)
+
 - [x] 单一排行信息的页面，适用于在一个页面上行只展示某一个独立分类的排行的页面；
 
+![图片](https://user-images.githubusercontent.com/44310324/62819838-60c7cb00-bb8d-11e9-887d-fc93aaef2cd6.png)
+
 - [ ] 专题信息的页面，按照不同的专题进行分类的页面信息；
+
+![图片](https://user-images.githubusercontent.com/44310324/62819850-95d41d80-bb8d-11e9-9f13-05a32df6b772.png)
 
 以上的的解析器，按照对应的分类提供独立的解析过程和对应的配置。每一个app应用市场，可以包含以上所有的解析器和对应的配置。
 
