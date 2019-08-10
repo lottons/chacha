@@ -1,0 +1,26 @@
+{
+    "name": "huawei_app_store",
+    "url": "https://appstore.huawei.com/",
+    "spider": [
+        {
+            "name": "game",
+            "selector": "div[class=\"unit-tri flt\"]",
+            "index": "0"
+        },
+        {
+            "name": "game",
+            "selector": "div[class=\"unit-tri flt\"]",
+            "index": "1"
+        },
+        {
+            "name": "nyeste",
+            "selector": "div[class=\"unit-tri flt\"]",
+            "index": "2"
+        },
+        {
+            "name": "rise",
+            "selector": "div[class=\"unit-tri flt\"]",
+            "index": "3"
+        }
+    ]
+}
