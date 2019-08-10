@@ -6,7 +6,9 @@
 
 ### 架构
 
-总体上主要分成两大部分：
+总体分为以下几个部分：
+
+![图片](https://user-images.githubusercontent.com/44310324/62820297-dbe0af80-bb94-11e9-967b-14a5779d8022.png)
 
 1. 网络数据抓取部分
 
